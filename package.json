@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^109.0.0",
+    "save-dev": "^0.0.1-security",
+    "selenium-webdriver": "^4.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
